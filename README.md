@@ -9,12 +9,13 @@
       <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
+<div align="center">
     <h1> Hey there, I'm Pragati Shree Sasikumar!</h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="auto"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzg0bnI4cWVhenFiZjQ5MHdvcXA4ZWt3ZWZsZXZ0ajY5aW1iNDJwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BACNp4PYgXACSPujxi/giphy.gif" width="500" height="auto"/>
 </div>
 
 ---

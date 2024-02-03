@@ -1,4 +1,5 @@
-  <a href="https://www.linkedin.com/in/pragati-shree-sasikumar-bb1698291/">
+ <div align="center">
+ <a href="https://www.linkedin.com/in/pragati-shree-sasikumar-bb1698291/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
   <a href="https://www.instagram.com/pragatishree_sasik/">

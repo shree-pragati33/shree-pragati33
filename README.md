@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/roshanbellary/">
+  <a href="[https://www.linkedin.com/in/roshanbellary/](https://www.linkedin.com/in/pragati-shree-sasikumar-bb1698291/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="Linkedin Badge"/>
   </a>
-  <a href="https://www.instagram.com/roshan.bellary/">
+  <a href="https://www.instagram.com/pragatishree_sasik/">
       <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>

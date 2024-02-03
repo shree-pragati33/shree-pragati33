@@ -20,7 +20,7 @@
 ### 👨‍🦱 About Me :
 I'm a Web/App Developer from Bloomington Normal, Illinois
 - ❤️ I love CS 💻, Finance💲 and most importantly coffee ☕
-- You can reach me at: [![Email Badge](https://img.shields.io/badge/-roshan-blue?style=flat&logo=Gmail&logoColor=white)](mailto:shree.sasik@gmail.com)
+- You can reach me at: [![Email Badge](https://img.shields.io/badge/-PragatiShree-blue?style=flat&logo=Gmail&logoColor=white)](mailto:shree.sasik@gmail.com)
 
 ---
 

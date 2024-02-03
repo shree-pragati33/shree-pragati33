@@ -38,9 +38,3 @@ I'm a Web/App Developer from Bloomington Normal, Illinois
 
 ---
 
-### :fire: My Stats :
-
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=roshanbellary&theme=dark&background=000000"/>
-</div>
-<!--
